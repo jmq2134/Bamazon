@@ -45,9 +45,9 @@ Show the admin a list of products and ask which they would like to remove and th
 
 ## Built With
 
--Node JS
--Inquirer to handle prompts
--MySQL to store data
+- Node JS
+- Inquirer to handle prompts
+- MySQL to store data
 
 
 ## Authors

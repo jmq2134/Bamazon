@@ -14,6 +14,9 @@ Mysql
 Bluebird
 
 
+## Key Functions
+
+
 ### Buyer commands
 
 - "View all products"

@@ -22,7 +22,7 @@ This is a node based CLI app that allows the user to buy items on bamazon. There
 ### Buyer commands
 
 - "View all products"
-Lists available products by name, department, price, and stock quantity.
+-- Lists available products by name, department, price, and stock quantity.
 
 ![buyer-view-all-products](./Images/BuyerViewProducts.PNG)
 
@@ -34,6 +34,8 @@ Lists available products by name, department, price, and stock quantity.
 -- If there is enough stock, the buyer will be told the total purchase price and the stock quantity is updated in MySQL.  
 
 ![buyer-decrease-stock](./Images/BuyerPurchaseGood.PNG)
+
+(stock of purchase item decreased by quantity purchased)
 
 ![buyer-decrease-stock](./Images/BuyerStockDecrease.PNG)
 

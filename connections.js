@@ -8,7 +8,7 @@ let Connection = MySQL.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "Jujupop12",
+    password: "",
     database: "bamazon"
 });
 

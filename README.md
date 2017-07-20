@@ -27,7 +27,7 @@ This is a node based CLI app that allows the user to buy items on bamazon. There
 ![buyer-view-all-products](./Images/BuyerViewProducts.PNG)
 
 - "Purchase an Item" 
--- The buyer is show the list of products and is asked the quantity of the product they would like to purchase.  
+-- The buyer is shown the list of products and is asked the quantity of the product they would like to purchase.  
 
 ![buyer-purchase-an-item](./Images/BuyerPurchase.PNG)
 
@@ -35,7 +35,7 @@ This is a node based CLI app that allows the user to buy items on bamazon. There
 
 ![buyer-decrease-stock](./Images/BuyerPurchaseGood.PNG)
 
-(stock of purchase item decreased by quantity purchased)
+(stock of purchased item decreased by quantity purchased)
 
 ![buyer-decrease-stock](./Images/BuyerStockDecrease.PNG)
 

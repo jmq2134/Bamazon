@@ -9,9 +9,9 @@ This is a node based CLI app that allows the user to buy items on bamazon. There
 
 ## NPM Installs
 
-Inquirer
-Mysql
-Bluebird
+- Inquirer
+- Mysql
+- Bluebird
 
 
 ## Key Functions
